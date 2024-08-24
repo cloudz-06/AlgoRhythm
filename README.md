@@ -16,7 +16,7 @@ By leveraging Python, the Spotify API, the LastFM API, and integrating MySQL, th
 - **Custom Playlist Creation:** Facilitates the creation of personalized playlists based on user preferences.
 - **Top Tracks of the Month:** Displays trending music using data from the LastFM API.
 
-## Technologies Used
+## Programs/Languages Used
 - **Python**: The primary programming language used for the project.
 - **Spotipy**: A Python library for integrating with the Spotify Web API.
 - **Pylast**: A Python interface to Last.fm's API.
