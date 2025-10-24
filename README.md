@@ -34,7 +34,7 @@ By leveraging Python, the Spotify API, the LastFM API, and integrating MySQL, th
 ## Team Members
 **-Nandhagopan Babu:** API Setup and User Interaction
 **-Rishi Raj:** Playlist Creation, Song Addition, and MySQL Connectivity
-**-Pranav Vinod:** Music Recommendations and Top Tracks
+**-Pranav Vinod (pranavv0806@gmail.com) :** Music Recommendations and Top Tracks
 
 ## Acknowledgements
 We would like to thank our Computer Science teacher for guiding us throughout the project and providing valuable feedback. Special thanks to our classmates and friends for their support.
